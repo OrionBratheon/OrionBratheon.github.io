@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://orionbratheon.github.io</id>
     <title>Orion Bratheon</title>
-    <updated>2019-07-19T14:37:10.770Z</updated>
+    <updated>2019-10-16T06:42:00.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://orionbratheon.github.io"/>
     <link rel="self" href="https://orionbratheon.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://orionbratheon.github.io/images/avatar.png</logo>
     <icon>https://orionbratheon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Orion Bratheon</rights>
+    <entry>
+        <title type="html"><![CDATA[日记10.16]]></title>
+        <id>https://orionbratheon.github.io/post/ri-ji-1016</id>
+        <link href="https://orionbratheon.github.io/post/ri-ji-1016">
+        </link>
+        <updated>2019-10-16T06:09:56.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暑期16日旅行 7.1 - 7.16]]></title>
         <id>https://orionbratheon.github.io/post/shu-qi-16-ri-lu-xing</id>
